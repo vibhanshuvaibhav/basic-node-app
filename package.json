@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Basic Node.js Application",
   "main": "index.js",
+  "start": "node index.js",
   "dependencies": {
     "cowsay": "^1.4.0",
     "dogsay": "^1.0.5"
